@@ -1,0 +1,98 @@
+{
+  "en": {
+    "translation": {
+      "home": "Home",
+      "categories": "Categories",
+      "sales": "Sales",
+      "faq": "FAQ",
+      "about": "About Us",
+      "contact": "Contact",
+      "signin": "Sign In",
+      "signup": "Sign Up",
+      "light": "Light",
+      "dark": "Dark",
+      "hello": "hello",
+      "grocery": "Let your groceries come to you",
+      "description": "Get fresh groceries online without stepping out to make delicious food with the freshest ingredients",
+      "search_placeholder": "Search here",
+      "search_button": "Search",
+      "features": {
+        "fresh_vegetables": "Fresh Vegetables",
+        "guarantee": "100% Guarantee",
+        "cash_delivery": "Cash on Delivery",
+        "fast_delivery": "Fast Delivery"
+      },
+      "categoriesb": {
+        "dairy": "Dairy Products",
+        "fruits_vegetables": "Vegetables & Fruits",
+        "spices": "Spices & Seasonings",
+        "honey": "Honey",
+        "flour": "Flour"
+      }
+    }
+  },
+  "ru": {
+    "translation": {
+      "home": "Главная",
+      "categories": "Категории",
+      "sales": "Акции",
+      "faq": "Вопросы и ответы",
+      "about": "О нас",
+      "contact": "Контакты",
+      "signin": "Войти",
+      "signup": "Зарегистрироваться",
+      "light": "Светлая",
+      "dark": "Темная",
+      "hello": "privet",
+      "grocery": "Пусть ваши продукты придут к вам",
+      "description": "Получайте свежие продукты онлайн, не выходя из дома, чтобы приготовить вкусную еду из самых свежих ингредиентов",
+      "search_placeholder": "Искать здесь",
+      "search_button": "Искать",
+      "features": {
+        "fresh_vegetables": "Свежие овощи",
+        "guarantee": "100% гарантия",
+        "cash_delivery": "Наложенный платеж",
+        "fast_delivery": "Быстрая доставка"
+      },
+      "categoriesb": {
+        "dairy": "Молочные продукты",
+        "fruits_vegetables": "Овощи и фрукты",
+        "spices": "Специи и приправы",
+        "honey": "Мед",
+        "flour": "Мука"
+      }
+    }
+  },
+  "uz": {
+    "translation": {
+      "home": "Bosh sahifa",
+      "categories": "Kategoriyalar",
+      "sales": "Sotuvlar",
+      "faq": "Savol-javob",
+      "about": "Biz haqimizda",
+      "contact": "Bog'lanish",
+      "signin": "Kirish",
+      "signup": "Ro'yxatdan o'tish",
+      "light": "Yorug'",
+      "dark": "Qorong'i",
+      "hello": "salom",
+      "grocery": "Mahsulotlaringiz sizga kelsin",
+      "description": "Yangi mahsulotlarni uyga chiqmasdan onlayn tarzda oling, eng yangi ingredientlardan mazali taomlar tayyorlang",
+      "search_placeholder": "Bu yerda qidiring",
+      "search_button": "Qidiring",
+      "features": {
+        "fresh_vegetables": "Yangi sabzavotlar",
+        "guarantee": "100% Kafolat",
+        "cash_delivery": "Yetkazib berishda to'lash",
+        "fast_delivery": "Tezkor yetkazib berish"
+      },
+      "categoriesb": {
+        "dairy": "Sut mahsulotlari",
+        "fruits_vegetables": "Sabzavot va mevalar",
+        "spices": "Ziravorlar va mavsumiylar",
+        "honey": "Asal",
+        "flour": "Un"
+      }
+    }
+  }
+}

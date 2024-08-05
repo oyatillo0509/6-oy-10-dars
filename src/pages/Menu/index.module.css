@@ -1,0 +1,93 @@
+.navbar {
+  max-width: 1600px;
+  margin: 0 auto;
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 16px 32px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  transition: background-color 0.3s;
+}
+
+.navbar-light {
+  background-color: #fff;
+  color: #333;
+}
+
+.navbar-dark {
+  background-color: #2d2a2a;
+  color: #fff;
+}
+
+.logo {
+  font-size: 24px;
+  font-weight: bold;
+  color: #ffb74d;
+}
+
+.navLinks {
+  list-style: none;
+  display: flex;
+  gap: 56px;
+}
+
+.navLinks li {
+  display: inline;
+}
+
+.navLinks a {
+  text-decoration: none;
+  color: inherit; /* inherit color from the parent */
+  font-size: 16px;
+  transition: color 0.3s;
+}
+
+.navLinks a:hover {
+  color: #ff7043;
+}
+
+.rightSide {
+  display: flex;
+  z-index: 100;
+  align-items: center;
+  gap: 16px;
+}
+
+.languageSelector select,
+.dark_light select {
+  padding: 8px;
+  border-radius: 4px;
+  border: 1px solid #ddd;
+  font-size: 14px;
+  background-color: inherit;
+  color: inherit;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.authLinks {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.authLinks a {
+  text-decoration: none;
+  font-size: 16px;
+  color: #ff7043;
+  transition: color 0.3s;
+}
+
+.signup {
+  background-color: #ff7043;
+  color: #fff;
+  cursor: pointer;
+  border: 0;
+  padding: 8px 16px;
+  border-radius: 4px;
+  transition: background-color 0.3s;
+}
+
+.signup:hover {
+  background-color: #ffb74d;
+}

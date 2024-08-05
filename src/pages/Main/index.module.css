@@ -1,0 +1,171 @@
+.main {
+  max-width: 1600px;
+  margin: 0 auto;
+  padding: 30px;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.main-light {
+  background-color: #f8f8f8;
+  color: #333;
+}
+
+.main-dark {
+  background-color: #2d2a2a;
+  color: #fff;
+}
+
+.heroSection {
+  position: relative;
+  margin: 0px;
+  display: flex;
+  justify-content: space-between;
+  max-width: 1600px;
+}
+
+.heroSection h1 {
+  width: 762px;
+  height: 196px;
+  font-size: 80px;
+  font-weight: 700;
+  line-height: 97.52px;
+  letter-spacing: -0.035em;
+  text-align: left;
+  margin: 0px;
+  margin-top: 78px;
+}
+
+.highlight {
+  font-size: 80px;
+  font-weight: 700;
+  line-height: 97.52px;
+  letter-spacing: -0.035em;
+  text-align: left;
+  color: #ff7043;
+}
+
+.heroSection p {
+  width: 648px;
+  height: 80px;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 40px;
+  text-align: left;
+  margin: 0px;
+  margin-top: 16px;
+  margin-bottom: 48px;
+}
+
+.searchContainer {
+  display: flex;
+  margin-bottom: 40px;
+}
+
+.searchContainer input {
+  padding: 10px;
+  font-size: 16px;
+  border: 1px solid #ddd;
+  border-radius: 4px 0 0 4px;
+  outline: none;
+  background-color: inherit;
+  color: inherit;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.searchContainer button {
+  padding: 10px 20px;
+  font-size: 16px;
+  border: none;
+  background-color: #ff7043;
+  color: #fff;
+  cursor: pointer;
+  border-radius: 0 4px 4px 0;
+  transition: background-color 0.3s;
+}
+
+.searchContainer button:hover {
+  background-color: #ffb74d;
+}
+
+.features {
+  width: 400px;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  margin-bottom: 40px;
+}
+
+.features div {
+  font-size: 16px;
+  color: inherit;
+}
+
+.products {
+  width: 208px;
+  height: 544px;
+  margin-bottom: 40px;
+}
+
+.productCard {
+  margin-top: 32px;
+  border: 1px solid #949494;
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  text-align: center;
+}
+
+.productCard img {
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 10px;
+}
+
+.productCard div {
+  font-size: 16px;
+  color: #333;
+}
+
+.categories {
+  margin-top: 66px;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.categoryCard {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  text-align: center;
+  width: 180px;
+  margin-bottom: 100px;
+}
+
+.categoryCard img {
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 10px;
+}
+
+.categoryCard h3 {
+  font-size: 18px;
+  color: #333;
+  margin-bottom: 10px;
+}
+
+.categoryCard p {
+  font-size: 14px;
+  color: #777;
+}
+
+.bacimg {
+  z-index: 0;
+  width: 1066px;
+  height: 712px;
+  left: 400px;
+  top: -60px;
+  position: absolute;
+}
